@@ -4,19 +4,24 @@ description: Here you can manage your assets in pools
 
 # 🌊 Pool
 
-## How to Use It and How to Manage
+## Getting Started with Pools 
 
-The Pool is a mechanism to reward users who provides liquidity to the DEX. A Pool can be created by any user in the world. \
-After the pool is created it can be filled up with assets. As long as pool has asset all stakeholders are rewarded with fees from each trade proportionally to their total liquidity share.\
+A **Pool** is a mechanism to reward users that provide liquidity to the DEX. A Pool can be created by any user in the world. 
+
+After the Pool is created, you can add assets to it. As long as the pool contains assets, the pool's stakeholders receive rewards from each trade in proportion to their liquidity share in the pool 
+
+it can be filled up with assets. As long as pool has asset all stakeholders are rewarded with fees from each trade proportionally to their total liquidity share.\
 Each stakeholder can do any actions with his liquidity (increase, decrease or take away) or take reward any time.&#x20;
+
+**QUESTION: WHICH SCENARIO IS MORE IMPORTANT: ADDING LIQUIDITY TO AN EXISTING POOL OR CREATING A COMPLETELY NEW POOL FROM ZERO?**
 
 So, below are **screenshots** of the **Pool** location:&#x20;
 
 ![home page](<../.gitbook/assets/image (6).png>)
 
-## **Add Liquidity**
+## Add Liquidity
 
-You provide tokens to the liquidity pool in a current pool's ratio. \
+You provide tokens to the liquidity pool in a current pool's ratio. 
 As an example, given the 1:100.000.000 BIT-SOS ratio in the pool, you should add simultaneously **10 $BIT** and **1.000.000.000 $ENQ** liquidity ($$\frac{10}{100000000} = \frac{1}{10}$$ ). ****&#x20;
 
 ![pool location](<../.gitbook/assets/image (1).png>)
@@ -40,10 +45,141 @@ After all the confirmations, you will be notified that the transaction was succe
 
 ![transaction was submitted](<../.gitbook/assets/image (14).png>)
 
-## Create a Pool
+## Creating a New Pool and Adding Liquidity To It
 
-If the pool you wish to provide liquidity to does not exist, you can create it by yourself with the same procedure as adding liquidity. \
-As the first liquidity provider, you set the initial exchange ratio (price). This often quickly corrects itself through arbitrage and by more liquidity providers adding to the pool.
+If you want to create a new pool to add liquidity to, you can do it yourself in a way similar to that of adding liquidity to an existing pool (see above). 
+
+When creating a pool, you can set the initial exchange rate for the two tokens you add to the pool. This ration will quickly adjust as more liquidity providers add liquidity to the pool you have created, as well as through arbitrage.
+
+When you're creating a new Pool, you will see the following once you've opened **Pool**: 
+
+![pool 1st start](/img/pool-1st-start.png)
+
+Click **Add Liquidity**. The following window appears:
+
+![pool 1st liquidity input](/img/pool-1st-liquidity-input.png)
+
+The window has two input blocks:
+
+* Token 1 input
+
+Here you can input the first token (Token 1) in the Pool. By default, this is the default token in your wallet; you can select another token using the dropdown to the right of the **Input** field. **Balance** shows your wallet's current balance as to the selected token. 
+
+* Token 2 input
+
+Here you can select the amount of the second token (Token 2) in the Pool. You should select the token from the dropdown to the right of the **Input** field. 
+
+Once you've selected Token 2 and input the value, the windows looks like this: 
+
+![pool both tokens](/img/pool-1st-liquidity-both-tokens.png)
+
+**Price And Pool Share** section shows the following values: 
+* Price of Token 1 nominated in Token 2
+* Price of Token 2 nominated in Token 1
+* Share of the amount of tokens you want to input in the pool
+
+**LP tokens in your wallet** under **Add Liquidity** button shows the following:
+
+* Amount of liquidity pool tokens you have at the moment
+* Amount of Token 1 to be added
+* Amount of Token 2 to be added
+
+To proceed with adding tokens, click **Add liquidity**. The confirmation window opens:
+
+![pool 1st confirmation](/img/pool-1st-liquidity-confirmation.png)
+
+This window shows the following information:
+
+* Amount of liquidity pool tokens you will receive, once the liquidity is added
+* Amount of Token 1 to be deposited
+* Amount of Token 2 to be deposited
+* Price of Token 1 nominated in Token 2
+* Price of Token 2 nominated in Token 1
+* Transaction fee for the adding of liquidity
+* Share of the amount of tokens you want to input in the pool
+
+Review this information and, if you want to proceed, click **Confirm Supply**. The Enecuum Wallet confirmation window opens:
+
+![pool 1st wallet confirmation](/img/pool-1st-liquidity-wallet-confirmation.png)
+
+This window gives the details of the transaction fee you should pay as you add liquidity. Click **Confirm** to proceed. 
+
+![pool tx submitted](/img/pool-1st-liquidity-tx-submitted.png)
+
+You can click **View on ...enecuum.com** to view the transaction properties in Blockchain Explorer. The following page opens:
+
+![pool tx info](/img/pool-1st-liquidity-tx-info.png)
+
+**Parameters** section includes the following information:
+
+* **Type**: transaction type (**Add Liquidity** in this case)
+* **Asset 1**: Token 1 hash
+* **Amount 1**: Token 1 amount
+* **Asset 2**: Token 2 hash
+* **Amount 2**: Token 2 amount
+
+**Additional** section shows the amount of LP tokens you have received for adding liquidity to the pool. 
+
+If you don't want to view the transaction properties, just click **Close** to close that window. 
+
+### Adding Liquidity to an Existing Pool
+
+To add liquidity to an existing pool, got to **Pool** as described in **Getting Started with Pool**. The following window opens:
+
+![pool add more](/img/pool-add-more-start.png)
+
+You can see the following information here:
+
+* Token pair name (tickers of Token 1 and Token 2)
+* Pooled Token 1: amount of Token 1 in the pool
+* Pooled Token 2: amount of Token 2 in the pool
+* Your Pool Tokens: the amount of LP tokens you have at the moment
+* Pool Share: your share in the pool as of now
+
+Click **Add** to proceed. The further steps are the same as described above in **Add Liquidity**.
+
+
+## Removing Liquidity From a Pool
+
+To remove liquidity from a pool, open the pool and click **Remove**. The following window opens:
+
+![pool remove selector](/img/pool-remove-liquidity-selector.png)
+
+Here you can select the liquidity share you wish to remove from the pool, either by using the slide or clicking on the preset values of 25%, 50%, 75%, or MAX for the maximum possible liquidity withdrawal. 
+
+If you want to see the amount of LP tokens involved in the liquidity withdrawal, click **Detailed** above the slider. The window will expand so that it looks as follows: 
+
+![pool remove selector detailed](/img/pool-remove-liquidity-selector-detailed.png)
+
+The top token selector shows the amount of LP tokens that (?? gets returned) as you remove liquidity from a pool. The next two token selectors show the amount of Token 1 and Token 2, respectively, to be withdrawn. 
+
+**Price** displays the price of Token 1 and Token 2 in the same way as elsewhere in the Pool interface.
+
+Click **Remove Liquidity** to proceed. The confirmation window appears:
+
+![pool remove liquidity confirmation](/img/pool-remove-liquidity-confirmation.png)
+
+You can see how many Token 1 and Token 2 you will receive, once the liquidity removal is accomplished. Click **Remove liquidity** to proceed. **ENEX.SPACE** warning window opens: 
+
+![pool remove warning](/img/pool-remove-liquidity-pool-warning.png)
+
+At the same time, Enecuum Wallet transaction confirmation window opens:
+
+![pool remove wallet confirmation](/img/pool-remove-enecuum-wallet-confirmation.png)
+
+Once you have confirmed the transaction, the transaction confirmation window opens. **Click View on...** to view the transaction information in Blockchain Explorer:
+
+![pool remove tx info](/img/pool-remove-liquidity-tx-info.png)
+
+If you don't want to view that information, just close the window. 
+
+
+
+
+
+
+
+
 
 ### A2A
 
