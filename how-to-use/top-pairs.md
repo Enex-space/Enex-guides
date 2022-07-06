@@ -1,6 +1,6 @@
 # 🔝 Top Pairs
 
-Here you can see a whole list of Top Pairs on the DeFi platform ENEX.SPACE
+Here you can see the complete list of Top Pairs (**DEFINE TOP PAIRS**) on the DeFi platform **ENEX.SPACE**.
 
 ![top pairs interface](<../.gitbook/assets/image (30).png>)
 
@@ -8,18 +8,18 @@ Let's look at the Top 10 Pairs and review their names one by one:
 
 |                 | Description                                           |
 | --------------- | ----------------------------------------------------- |
-| #               | This is Number of a Pair                              |
-| Name            | The Name of the Pair                                  |
-| LP Total Supply | Total number of LP tokens in the current pool         |
-| Volume 1        | The Volume of the first token in the name of the Pair |
-| Volume 2        | The Volume of the second token from the Pair          |
-| My Token 1      | This is how many tokens for Volume 1 you have         |
-| My Token 2      | This is how many tokens for Volume 2 you have         |
-| Your Pool Share | Percentage of your share from the whole Pool          |
+| #               | Number of a Pair (** HOW IS THIS DEFINED**            |
+| Name            | Name of the Pair                                      |
+| LP Total Supply | Total number of LP tokens in the pool                 |
+| Volume 1        | Total amount of Token 1 in the Pair                   |
+| Volume 2        | Total amount of Token 2 in the Pair                   |
+| My Token 1      | Your Token 1 amount in the Pool                       |
+| My Token 2      | Your Token 2 amount in the Pool                       |
+| Your Pool Share | Your share in the Pool as percentage                  |
 
 ![top pairs](<../.gitbook/assets/image (9).png>)
 
-If you want to add a supplement to the Pair, you need to do this in the Pool.
+If you want to add more tokens to a Pair, (**CLICK SOMETHING? TO BE CHECKED ON UI ONCE UP**) and do this in the Pool as described in
 
 {% content-ref url="pool.md" %}
 [pool.md](pool.md)
