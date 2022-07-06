@@ -53,7 +53,7 @@ When creating a pool, you can set the initial exchange rate for the two tokens y
 
 When you're creating a new Pool, you will see the following once you've opened **Pool**: 
 
-![pool 1st start](<../.gitbook/assets/pool-1st-start.png>)
+![pool 1st start](<../.gitbook/assets/pool1ststart.jpg>)
 
 Click **Add Liquidity**. The following window appears:
 
