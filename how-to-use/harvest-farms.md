@@ -2,7 +2,7 @@
 
 ## Introducing Harvest Farms
 
-**Harvest Farms** is a yield farming mechanism. Analogous to a traditional bank deposit, tt allows a user to receive rewards for providing liquidity to **ENEX.SPACE** DEX via [Pools](pool.md) for a given period of time. The rationale behind Harvest Farms is to have users keep their liquidity in pools, thus enabling trading on the DeFi platform. 
+**Harvest Farms** is a yield farming mechanism. Analogous to a traditional bank deposit, it allows a user to receive rewards for providing liquidity to **ENEX.SPACE** DEX via [Pools](pool.md) for a given period of time. The rationale behind Harvest Farms is to have users keep their liquidity in pools, thus enabling trading on the DeFi platform. 
 
 A user can stake in a farm for a preset duration (determined in blocks) the liquidity provider tokens received after staking tokens in a Pool. Rewards are paid out in **$ENX** tokens.
 
