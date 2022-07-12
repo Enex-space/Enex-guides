@@ -10,6 +10,8 @@ When a transaction is performed on **ENEX.SPACE**, 0.05% of the transaction fee,
 
 Possible actions: 
 
+(Staking ENX tokens)
+
 (Harvest) to collect the due rewards of a single user that triggers Harvest.
 
 (Distribute) distributing rewards to all stakeholders in the token pool, in proportion to their stakes. 
@@ -21,3 +23,4 @@ Possible actions:
 ** Estimation: estimated ENX amount to be shared once Distribute is called
 ** ENX price in pool: the approximate ENX price in pools that take part in the Station
 ** Price impact: the difference in the token's price before and after the distribution is made.
+
