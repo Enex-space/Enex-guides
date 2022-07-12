@@ -6,15 +6,15 @@ description: Stake your $ENX to get 0,05% fees from each trades on ENEX.SPACE
 
 The rationale behind **Station**, much as with **Harvest Farms**, is to encourage ENEX.SPACE users to keep ENX liquidity in liquidity pools. 
 
-When a transaction is performed on ENEX.SPACE, 0.05% of the transaction fee, in LP tokens, goes to the Treasury Fund. If a user has a stake in the liquidity pool that holds both LP tokens and ENX tokens, he can call Distribute to trade the LP tokens in the pool for ENX and distribute them to the stakeholders of the pool, in proportion to their stakes. 
+When a transaction is performed on **ENEX.SPACE**, 0.05% of the transaction fee, in LP tokens, goes to the Treasury Fund. If a user has a stake in a liquidity pool that holds both LP tokens and ENX tokens, he can call Distribute to trade the LP tokens in the pool for ENX and distribute them to the stakeholders of the pool, in proportion to their stakes. 
 
 Possible actions: 
 
-(Harvest) to collect the due rewards of a user
+(Harvest) to collect the due rewards of a single user that triggers Harvest.
 
-(Distribute) to distribute rewards to all stakeholders in the token pool, in proportion to their stakes. 
+(Distribute) distributing rewards to all stakeholders in the token pool, in proportion to their stakes. 
 
-- pools available
+- pools available for a user
 
 ** Name: ENEX.SPACE pool name
 ** ENEX Treasury: amount of LP tokens accrued from transaction fees
