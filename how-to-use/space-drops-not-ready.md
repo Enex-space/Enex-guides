@@ -2,9 +2,6 @@
 description: Space Drop is a place where projects can be introduced to the community
 ---
 
-# 🌍 Space Drops (not ready)
-
-
 # 🛰 Space Drops
 
 **Space Drops** are similar to [**Space Station**](station-not-ready.md). They allow you to earn rewards as you stake ENX tokens. The difference is that with **Space Drops**, the reward is accumulated and eventually converted not from liquidity pool tokens issued to stakeholders, but from the other token of a given pair pair. 
