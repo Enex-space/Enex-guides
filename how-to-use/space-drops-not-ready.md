@@ -4,9 +4,6 @@ description: Space Drop is a place where projects can be introduced to the commu
 
 # 🌍 Space Drops (not ready)
 
----
-description: Stake your $ENX to get 0,05% fees from each trades on ENEX.SPACE
----
 
 # 🛰 Space Drops
 
