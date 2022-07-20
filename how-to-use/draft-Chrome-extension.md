@@ -37,19 +37,36 @@ Sending Tokens
 
 - add seed phrase (check terms)
 - generate seed phrase
-- connect ledger (WHAT DOES THIS MEAN?)
+- connect ledger --> A ledger is the Enecuum hardware wallet solution. This functionality is being developed now. 
 - working with private keys
 - - adding a new private key
 
 ### Networks
 
+Enecuum extension supports working with multiple networks. When you install Enecuum for the first time (see above), there's only one network available. 
+
 - add network
+
+
+
 - switch network
+- 
+click Select on the network's bar in the extension; the window will be redrawn, showing the new network in the header.
+
 - delete network
+
+click X, no confirmation is requested
 
 ### DApps 
 
-(terra incognita thus far)
+This section allows to work with apps running on the Enecuum network. 
+
+DApps thus far:
+
+- Enex (same as the "big" / desktop ENEX, corresponds to the mobile app view)
+- Wallet - same as Explorer Wallet interface
+- Faucet - add BIT tokens (is it going to go to production?)
+- Save - ???
 
 ### Set Password
 
