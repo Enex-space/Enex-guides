@@ -1,55 +1,88 @@
 # (do we need to call it Enecuum extension or ENEX.SPACE extension or what could be a proper name thereof? Also, are other browser extensions planned for the time being?)
 
 
+## Getting Started with Enecuum Extension
 
-## Installing Enecuum Browser Extension
+### Installing Enecuum Browser Extension
 
-- go to app.enex.space
-- click Connect (top right); the following window appears (screenshot about here) 
+Go to app.enex.space and click **Connect** in the top right corner: 
 - 
-- Connect to a wallet (ENQ wallet - intended to be clickable?) -> Get Enecuum browser extension
-- Click **Get Enecuum browser extension**. You will be taken to the Chrome Web Store (screenshot).  
- 
-Click **Install** to proceed. 
+![foo](<../.gitbook/assets/ext-install-start.png>)
 
-Once the installation is complete, click (icon) right of Chrome address bar to access the Extensions menu and click **Enecuum**. A pop-up window will open, asking you to set up a password. 
+The following window appears. Click **Get Enecuum browser extension** to proceed: 
 
-Enter the password twice and click **Save**. You will be taken to the _Welcome to Enecuum_ window. 
+![foo](<../.gitbook/assets/ext-install-get-extension.png>)
 
-At this point, you can either create a new wallet by generating a new mnemonic phrase (to do so, click **Generate**) OR log into your existing wallet with its mnemonic phrase (to do so, click **Login**).  
+Chrome Web Store opens. Click **Add to Chrome** and confirm the installation by clicking **Add Extension** in the pop-up that appears:
+
+![foo](<../.gitbook/assets/ext-install-chrome-web-store.png>)
+
+![foo](<../.gitbook/assets/ext-install-confirmation.png>)
+
+Once the installation is complete, click ![foo](<../.gitbook/assets/ext-install-ext-icon.png>) _Extensions_ icon to the right of Chrome address bar and click on Enecuum to open the extension. You will be asked to set up a password for the extension:
+
+![foo](<../.gitbook/assets/ext-install-set-ext-password.png>)
+
+When you're done setting up the password, you'll be taken to Enecuum extension start view:
+
+![foo](<../.gitbook/assets/ext-create-or-login.png>)
+
+Here you can either create a new wallet or log into an existing one. The following sections will describe how to do this. 
 
 ### Creating a Wallet
 
-In the _Welcome to Enecuum_ window, click **Generate**. The following will appear (screenshot): 
+1 In the start view, click **Generate**. The generated mnemonic phrase will appear: 
 
+![foo](<../.gitbook/assets/ext-create-mnemonic.png>)
 
-If you do not like the mnemonic phrase that was generated, click **Back** to go back to the start view and then **Generate** to generate a new mnemonic phrase. 
+If you do not like the mnemonic phrase that was generated, click **Back** to go back to the start view and then click **Generate** to generate a new mnemonic phrase. 
 
 If you like the mnemonic phrase that was generated, click **Next** to continue with the creation of your new wallet. 
 
-**VERY IMPORTANT**: If you decide to proceed with the generated mnemonic phrase, **back the mnemonic phrase up** before clicking **Next**. You will not be able to recover your mnemonic phrase once the wallet is created.  
+**VERY IMPORTANT**: If you decide to proceed with the generated mnemonic phrase, **back the mnemonic phrase up** before clicking **Next**. You will not be able to recover your mnemonic phrase once the wallet is created. To copy it into the clipboard, click **Copy**.   
 
-For the next step, you'd better keep the mnemonic phrase at hand
+Also, before you proceed to the next step, keep the mnemonic phrase at hand.
 
-After you've clicked **Next**, you will be asked twice to pick the word at the correct place in the mnemonic phrase (e.g. #7), for example:
+2 Click **Next**. You will be asked twice to pick the correct word from the mnemonic phrase you have just generated:
 
-Having successfully completed that, you will see the contents of your wallet (empty as of now). This will be covered in the following section (reference). 
+![foo](<../.gitbook/assets/ext-create-mnemonic-select.png>)
 
-Upon creation, the network you invoked the wallet's creation from is default, but the wallet is not connected to it. 
+Click on the word and then click **Next**. When you've successfully picked both requested words, you'll be taken to the view of your new wallet:
 
-To connect your newly created wallet to a network, go back to app.enex.space, click **Connect** and click **ENQ Wallet** in the window that appears:
+![foo](<../.gitbook/assets/ext-wallet-empty.png>)
 
-**Enecuum Extension** will request access to your account address: 
+Once created, your wallet is not connected to any network. To connect your wallet to the network you started with, click **Connect** on app.enex.space:
 
-Click **Allow** to proceed further. Your wallet is now connected to the network. 
+![foo](<../.gitbook/assets/ext-install-start.png>)
+
+Click **ENQ Wallet**:
+
+![foo](<../.gitbook/assets/ext-wallet-connect-to-network.png>)
+
+A confirmation window opens. Click **Allow** to proceed:
+
+![foo](<../.gitbook/assets/ext-wallet-connect-confirmation.png>)
+ 
+You are now connected to the network. You can see this in the top right corner of ENEX view:
+
+![foo](<../.gitbook/assets/ext-wallet-enex-connected.png>)
+
+Here you can see the following:
+* Name of the network (BIT)
+* Balance of your wallet in (**which tokens?**)
+* Address of your wallet
 
 ### Logging into an Existing Wallet
 
 To log into an existing wallet, open Enecuum extension, enter the mnemonic phrase for the wallet and click **Login**.
 
-You will be taken straight to the wallet view. 
+You will be taken straight to the wallet view (see above). 
 
-## Working with Enecuum Extension (once logged in)
+## Working with Enecuum Extension
+
+Once you're logged in, the extension shows the contents of the wallet: 
+
+![foo](<../.gitbook/assets/ext-wallet-main-view.png>)
 
 Window once logged in (screenshots)
 
