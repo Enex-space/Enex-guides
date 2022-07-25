@@ -1,5 +1,4 @@
-# (do we need to call it Enecuum extension or ENEX.SPACE extension or what could be a proper name thereof? Also, are other browser extensions planned for the time being?)
-
+# ENEX.SPACE extension 
 
 ## Getting Started with Enecuum Extension
 
