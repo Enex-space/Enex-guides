@@ -9,4 +9,4 @@
 * [🧑🌾 Harvest Farms](how-to-use/harvest-farms.md)
 * [🌍 Space Drops](how-to-use/space-drops.md)
 * [🛰 Station](how-to-use/station.md)
-* [🛰 Browser Extension](how-to-use/Chrome-extension.md)
+* [💰 Browser Extension](how-to-use/Chrome-extension.md)
