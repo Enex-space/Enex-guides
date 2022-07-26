@@ -2,10 +2,11 @@
 
 ## ❓ How to use
 
-* [🔄 Swap](README.md)
+* [🔄 Swap](how-to-use/Swap.md)
 * [🌊 Pool](how-to-use/pool.md)
 * [🔝 Top Pairs](how-to-use/top-pairs.md)
-* [🎰 ETM (not ready)](how-to-use/etm-not-ready.md)
+* [🎰 ETM](how-to-use/etm.md)
 * [🧑🌾 Harvest Farms](how-to-use/harvest-farms.md)
-* [🌍 Space Drops (not ready)](how-to-use/space-drops-not-ready.md)
-* [🛰 Station (not ready)](how-to-use/station-not-ready.md)
+* [🌍 Space Drops](how-to-use/space-drops.md)
+* [🛰 Station](how-to-use/station.md)
+* [🛰 Browser Extension](how-to-use/Chrome-extension.md)
