@@ -18,6 +18,8 @@ Commander is entity which has full access to treasury. **Treasury** is filled up
 
 On picture above, there are three liquidity pools. Trading fees are gathered in treasury in form of LPs:
 
+![](<.gitbook/assets/image (18).png>)
+
 * Whiskey/Cola with LPwc liquidity token,
 * Gin/Tonic with LPgt liquidity token,
 * LPwc/ENX with LPwc\* liquidity token.
