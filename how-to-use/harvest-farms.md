@@ -1,4 +1,4 @@
-# 🧑🌾 Harvest Farms
+# Harvest Farms
 
 ## Introducing Harvest Farms
 
