@@ -8,7 +8,8 @@
 * [🔄 Swap](how-to-use/Swap.md)
 * [🌊 Pool](how-to-use/pool.md)
 * [🔝 Top Pairs](how-to-use/top-pairs.md)
-* [🎰 ETM](how-to-use/etm.md)
+* [🎰 ETM](how-to-use/etm/README.md)
+  * [↔ Fee principals](how-to-use/etm/fee-principals.md)
 * [🧑🌾 Harvest Farms](how-to-use/harvest-farms.md)
 * [🌍 Space Drops](how-to-use/space-drops.md)
 * [🛰 Station](how-to-use/station.md)
@@ -18,3 +19,8 @@
 
 * [💻 Core math](inside-the-enex/core-math.md)
 * [📈 Price Discovery](inside-the-enex/price-discovery.md)
+
+## 🔗 Materials and links
+
+* [🪄 Brand book](materials-and-links/brand-book.md)
+* [👥 Communities](materials-and-links/communities.md)
