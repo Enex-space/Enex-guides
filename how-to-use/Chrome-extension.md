@@ -4,27 +4,27 @@
 
 ### Installing Enecuum Browser Extension
 
-## Go to app.enex.space and click **Connect** in the top right corner:
+Go to app.enex.space and click **Connect** in the top right corner:
 
-![foo](../.gitbook/assets/ext-install-start.png)
+![connection](../.gitbook/assets/ext-install-start.png)
 
 The following window appears. Click **Get Enecuum browser extension** to proceed:
 
-![foo](../.gitbook/assets/ext-install-get-extension.png)
+![](../.gitbook/assets/ext-install-get-extension.png)
 
 Chrome Web Store opens. Click **Add to Chrome** and confirm the installation by clicking **Add Extension** in the pop-up that appears:
 
 ![foo](../.gitbook/assets/ext-install-chrome-web-store.png)
 
-![foo](../.gitbook/assets/ext-install-confirmation.png)
+![](../.gitbook/assets/ext-install-confirmation.png)
 
 Once the installation is complete, click ![foo](../.gitbook/assets/ext-install-ext-icon.png) _Extensions_ icon to the right of Chrome address bar and click on Enecuum to open the extension. You will be asked to set up a password for the extension:
 
-![foo](../.gitbook/assets/ext-install-set-ext-password.png)
+![](../.gitbook/assets/ext-install-set-ext-password.png)
 
 When you're done setting up the password, you'll be taken to Enecuum extension start view:
 
-![foo](../.gitbook/assets/ext-create-or-login.png)
+![](../.gitbook/assets/ext-create-or-login.png)
 
 Here you can either create a new wallet or log into an existing one. The following sections will describe how to do this.
 
@@ -32,7 +32,7 @@ Here you can either create a new wallet or log into an existing one. The followi
 
 1 In the start view, click **Generate**. The generated mnemonic phrase will appear:
 
-![foo](../.gitbook/assets/ext-create-mnemonic.png)
+![](../.gitbook/assets/ext-create-mnemonic.png)
 
 If you do not like the mnemonic phrase that was generated, click **Back** to go back to the start view and then click **Generate** to generate a new mnemonic phrase.
 
@@ -44,27 +44,27 @@ Also, before you proceed to the next step, keep the mnemonic phrase at hand.
 
 2 Click **Next**. You will be asked twice to pick the correct word from the mnemonic phrase you have just generated:
 
-![foo](../.gitbook/assets/ext-create-mnemonic-select.png)
+![](../.gitbook/assets/ext-create-mnemonic-select.png)
 
 Click on the word and then click **Next**. When you've successfully picked both requested words, you'll be taken to the view of your new wallet:
 
-![foo](../.gitbook/assets/ext-wallet-empty.png)
+![](../.gitbook/assets/ext-wallet-empty.png)
 
 Once created, your wallet is not connected to any network. To connect your wallet to the network you started with, click **Connect** on app.enex.space:
 
-![foo](../.gitbook/assets/ext-install-start.png)
+![](../.gitbook/assets/ext-install-start.png)
 
 Click **ENQ Wallet**:
 
-![foo](../.gitbook/assets/ext-wallet-connect-to-network.png)
+![](../.gitbook/assets/ext-wallet-connect-to-network.png)
 
 A confirmation window opens. Click **Allow** to proceed:
 
-![foo](../.gitbook/assets/ext-wallet-connect-confirmation.png)
+![](../.gitbook/assets/ext-wallet-connect-confirmation.png)
 
 You are now connected to the network. You can see this in the top right corner of ENEX view:
 
-![foo](../.gitbook/assets/ext-wallet-enex-connected.png)
+![](../.gitbook/assets/ext-wallet-enex-connected.png)
 
 Here you can see the following:
 
@@ -82,7 +82,7 @@ You will be taken straight to the wallet view (see above).
 
 Once you're logged in, the extension shows the contents of the wallet:
 
-![foo](../.gitbook/assets/ext-wallet-main-view.png)
+![](../.gitbook/assets/ext-wallet-main-view.png)
 
 Window once logged in (screenshots)
 
@@ -144,7 +144,6 @@ DApps thus far:
 * Enex (same as the "big" / desktop ENEX, corresponds to the mobile app view)
 * Wallet - same as Explorer Wallet interface
 * Faucet - add BIT tokens (is it going to go to production?)
-* Save - ???
 
 ### Set Password
 
@@ -153,10 +152,6 @@ When you've first launched the extension, it will ask you to set a password
 (requirements for a password, checks?)
 
 Enter the password twice and click **Save**.
-
-### (e.) Window - ???
-
-### Popup Window - ???
 
 ### Logout (and be taken back to the beginning)
 

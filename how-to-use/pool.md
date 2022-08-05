@@ -30,7 +30,7 @@ The number of LP tokens you own shows your share in the BIT-SOS liquidity pool. 
 
 ![adding liquidity](<../.gitbook/assets/image (19).png>)
 
-![this's what you'll receive](<../.gitbook/assets/image (41).png>)
+![this's what you'll receive](<../.gitbook/assets/image (7).png>)
 
 Next, you will see the baby-window again, waiting for you to confirm the operation in your wallet.
 
