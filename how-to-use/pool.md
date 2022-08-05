@@ -10,7 +10,7 @@ Just like any ENEX.SPACE user, you can add more liquidity to the pool or withdra
 
 To access Pools, you can follow [this link ](https://app.enex.space/#!action=pool)or click **Pool** in **ENEX.SPACE** sidebar as shown below:
 
-![home page](<../.gitbook/assets/image (6).png>)
+![home page](<../.gitbook/assets/image (6) (1).png>)
 
 ## Adding Liquidity to an Existing Pool
 
@@ -18,7 +18,7 @@ When adding liquidity to an existing pool, you have add a certain amount of both
 
 ($$\frac{10}{100000000} = \frac{1}{10}$$).
 
-![pool location](<../.gitbook/assets/image (1).png>)
+![pool location](<../.gitbook/assets/image (1) (1).png>)
 
 When you have added your tokens to the pool, you will receive **LP (liquidity pool) tokens**.
 
@@ -30,7 +30,7 @@ The number of LP tokens you own shows your share in the BIT-SOS liquidity pool. 
 
 ![adding liquidity](<../.gitbook/assets/image (19).png>)
 
-![this's what you'll receive](<../.gitbook/assets/image (7).png>)
+![this's what you'll receive](<../.gitbook/assets/image (7) (1).png>)
 
 Next, you will see the baby-window again, waiting for you to confirm the operation in your wallet.
 

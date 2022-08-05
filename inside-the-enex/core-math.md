@@ -6,7 +6,7 @@
 
 DEX is designed for digital asset exchange. Assets are exchanged within independent liquidity pools. Only one pool can exist for each pair. The fee for exchange operations in the pool is set automatically at the time of creation. Any user can create pools, add liquidity to existing pools, remove previously added liquidity, and exchange assets. Each operation is performed by calling the corresponding smart contract.
 
-As the ratio may change during add liquidity transaction execution you fix one asset's amount and determine limits on the another. So in this example you may actually transfer **20 $ENX and 201.72 $ENQ.**
+As the ratio may change during add liquidity transaction execution you fix one asset's amount and determine limits on the another.&#x20;
 
 ### Space Drops
 

@@ -42,7 +42,7 @@ ENEX.SPACE is a DeFi platform built on the Enecuum blockchain. ENEX.SPACE functi
 
 ## Commander ENEX
 
-Commander is entity which has full access to treasury. **Treasury** is filled up with fees from pool trades in form of LP tokens(see **Liquidity pools** section). Some of these tokens are traded to ENX via liquidity pools. Commander ENEX occasionally sells these LP tokens for ENX. Tokens which cannot be traded to ENX are sent to burn address. All exchanged ENX are sent to **Space Station** for distribution.
+Commander is entity which has full access to treasury. **Treasury** is filled up with fees from pool trades in form of LP tokens(see [**Pools** ](how-to-use/pool.md)section). Some of these tokens are traded to ENX via liquidity pools. Commander ENEX occasionally sells these LP tokens for ENX. Tokens which cannot be traded to ENX are sent to burn address. All exchanged ENX are sent to [**Station**](how-to-use/station.md) for distribution.
 
 On picture above, there are three liquidity pools. Trading fees are gathered in treasury in form of LPs:
 

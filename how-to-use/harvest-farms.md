@@ -1,8 +1,8 @@
-# Harvest Farms
+# 🧑🌾 Harvest Farms
 
 ## Introducing Harvest Farms
 
-**Harvest Farms** is a yield farming mechanism. Analogous to a traditional bank deposit, it allows a user to receive rewards for providing liquidity to **ENEX.SPACE** DEX via [Pools](pool.md) for a given period of time. The rationale behind Harvest Farms is to have users keep their liquidity in pools, thus enabling trading on the DeFi platform. 
+**Harvest Farms** is a yield farming mechanism. Analogous to a traditional bank deposit, it allows a user to receive rewards for providing liquidity to **ENEX.SPACE** DEX via [Pools](pool.md) for a given period of time. The rationale behind Harvest Farms is to have users keep their liquidity in pools, thus enabling trading on the DeFi platform.
 
 A user can stake in a farm for a preset duration (determined in blocks) the liquidity provider tokens received after staking tokens in a Pool. Rewards are paid out in **$ENX** tokens.
 
@@ -10,15 +10,15 @@ A user can stake in a farm for a preset duration (determined in blocks) the liqu
 
 ![harvest farms interface](<../.gitbook/assets/image (24).png>)
 
-| Object           | Description                                                                                                   |
-| ---------------- | ------------------------------------------------------------------------------------------------------------- |
-| Stake-Earn       | Staked liquidity provider token (LP\_TKN) and reward token (ENX)                                              |
-| Status           | Amount of blocks remaining until the farm's expiration                                                        |
-| Earned           | Amount of tokens earned                                                                                       |
-| APY              | Annual percentage yield, i.e. the compounded return per year in percentage points                             |
+| Object           | Description                                                                                                                       |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Stake-Earn       | Staked liquidity provider token (LP\_TKN) and reward token (ENX)                                                                  |
+| Status           | Amount of blocks remaining until the farm's expiration                                                                            |
+| Earned           | Amount of tokens earned                                                                                                           |
+| APY              | Annual percentage yield, i.e. the compounded return per year in percentage points                                                 |
 | Liquidity        | **TO BE EXPLAINED** It is the manner in which assets are converted to cash quickly and efficiently, avoiding drastic price swings |
-| Reward Per Block | Reward to be received for a block                                                                             |
-| Details          | Information about your staking and earnings                                                                   |
+| Reward Per Block | Reward to be received for a block                                                                                                 |
+| Details          | Information about your staking and earnings                                                                                       |
 
 There is a function called "**status**" in the window. Active paused and finished statuses will be shown there. You can also choose to show **all** statuses.
 
@@ -28,17 +28,17 @@ There is a function called "**status**" in the window. Active paused and finishe
 
 ### Setting Up a Farm
 
-(**to be added? parameters in addition to the farm's time to live in blocks and the award fund (in ENX) to be distributed? **)
+(\*\*to be added? parameters in addition to the farm's time to live in blocks and the award fund (in ENX) to be distributed? \*\*)
 
 ### Providing Liquidity to get LP Tokens
 
-To get started with Harvest Farms, you need LP tokens. Refer to [Pools](pool.md) for details on adding liquidity and obtaining LP tokens. 
+To get started with Harvest Farms, you need LP tokens. Refer to [Pools](pool.md) for details on adding liquidity and obtaining LP tokens.
 
 ### Putting your LP Tokens into the Farm
 
-To add LP tokens to the farm, click **Stake LP_TKN** button. The following window appears:
+To add LP tokens to the farm, click **Stake LP\_TKN** button. The following window appears:
 
-![stake LP\_TKN](<../.gitbook/assets/image (5).png>)
+![stake LP\_TKN](<../.gitbook/assets/image (5) (1).png>)
 
 Type in the amount of LP Tokens you would like to farm or just click **MAX** to use all of your LP Tokens. When you have entered the amount, the **Confirm** button lights up. Click **Confirm**. Your wallet will request the confirmation of your action.
 
