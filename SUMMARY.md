@@ -1,6 +1,7 @@
 # Table of contents
 
 * [🚀 Welcome to ENEX.SPACE](README.md)
+* [💲 Tokenomics](tokenomics.md)
 
 ## ❓ How to use ENEX.SPACE <a href="#how-to-use" id="how-to-use"></a>
 
@@ -12,3 +13,8 @@
 * [🌍 Space Drops](how-to-use/space-drops.md)
 * [🛰 Station](how-to-use/station.md)
 * [💠 Browser Extension](how-to-use/Chrome-extension.md)
+
+## 📑 Inside the ENEX
+
+* [💻 Core math](inside-the-enex/core-math.md)
+* [📈 Price Discovery](inside-the-enex/price-discovery.md)
