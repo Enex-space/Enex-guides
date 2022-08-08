@@ -1,7 +1,7 @@
 # 🔄 Swap
 
 {% hint style="info" %}
-**Good to know:** you always can test all the featurest of ENEX.SPACE in test network. Visit app.enex.space and setup bit network in extension. Read more about this in the section: ENEX in Test Network
+**Good to know:** you always can test all the features of ENEX.SPACE in the test network. Visit [app.enex.spac](https://app.enex.space/) and select BIT network in the extension. Read more about this in the section: ENEX in Test Network
 {% endhint %}
 
 ENEX.SPACE provides a simple way to exchange digital assets by means of a swap operation.
@@ -15,9 +15,9 @@ When you add liquidity to a pool, you get Liquidity Provider tokens (LPTs) of th
 
 ## Getting Started with Swap
 
-First, you go to the site and select the swap tab or visit it via [link](https://app.enex.space/#!action=swap).&#x20;
+First, you go to the site and select the swap tab or visit it via [link](https://app.enex.space/#!action=swap).
 
-![swap](<.gitbook/assets/image (25).png>)
+![swap](<../.gitbook/assets/image (25).png>)
 
 Next, you will see the tools for using it.
 
@@ -37,7 +37,7 @@ It has the following parts:
 
 To view or edit **Transaction Settings**, click (cogwheel icon). The following window appears:
 
-![transaction Settings](<.gitbook/assets/image (11).png>)
+![transaction Settings](<../.gitbook/assets/image (11).png>)
 
 Here you can edit the _slippage tolerance_. This means that, if the price change exceeds this value, the transaction will be reversed.
 
@@ -55,13 +55,13 @@ Slippage doesn’t necessarily mean that you’ll end up with a worse price than
 
 Enex allows you to manually set a **slippage tolerance level** to limit any slippage you might experience. And we also allow you to change this level!&#x20;
 
-![slippage tolerance‍](<.gitbook/assets/image (43).png>)
+![slippage tolerance‍](<../.gitbook/assets/image (43).png>)
 
 ### Transaction History
 
 To view transaction history, click (clock-backwards). The following window appears:
 
-![swap tx history](.gitbook/assets/image.png)
+![swap tx history](../.gitbook/assets/swap-tx-history.png)
 
 Here you can view the history of your transactions. You can refine your view using the dropdown menus:
 
@@ -72,7 +72,7 @@ Here you can view the history of your transactions. You can refine your view usi
 
 This section lets you select the source token (**From**) and the target token (**To**) you want to swap.
 
-![token pair settings](<.gitbook/assets/image (15).png>)
+![token pair settings](<../.gitbook/assets/image (15).png>)
 
 **From** has the following fields:
 
@@ -80,13 +80,13 @@ This section lets you select the source token (**From**) and the target token (*
 * **Balance** shows the current amount of source tokens in your wallet.
 * **Token Selector** allows you to select your source token to be swapped. When you click on it, the following menu appears:
 
-![token selector](<.gitbook/assets/image (21).png>)
+![token selector](<../.gitbook/assets/image (21).png>)
 
 You can look up for the source token as you type in its name.
 
 You can also have your preferred tokens appear first on the menu. To do this, click (cogwheel icon). The following menu appears:
 
-![token selector grouping](<.gitbook/assets/image (40).png>)
+![token selector grouping](<../.gitbook/assets/image (40).png>)
 
 The dropdown lists all tokens in an A to Z order. Click the arrow to change the sorting order to Z to A.
 
@@ -104,7 +104,7 @@ This section shows the price of the target token measured in source tokens.
 
 In addition, it shows the routing information, collapsed by default. To view it, click **Router**.
 
-![routing](<.gitbook/assets/image (8).png>)
+![routing](<../.gitbook/assets/image (8).png>)
 
 0.3% - it is a swap fee for each pair.
 
@@ -119,7 +119,7 @@ The routing information lists the following parameters of the transaction:
 
 Click this button to send a transaction. If the transaction cannot be sent, the error reason is shown on the button.
 
-![swap button](<.gitbook/assets/image (29).png>)
+![swap button](<../.gitbook/assets/image (29).png>)
 
 ## Transaction Overview
 
@@ -133,18 +133,18 @@ This section contains the following transaction parameters:
 
 When you click **Swap**, this confirmation window appears:
 
-![swap confirmation](<.gitbook/assets/image (20).png>)
+![swap confirmation](<../.gitbook/assets/image (20).png>)
 
 Click **Confirm Supply** to proceed.
 
 When you've clicked **Confirm Supply**, Enecuum Wallet extension opens this window:
 
-![swap wallet confirmation](<.gitbook/assets/image (36).png>)
+![swap wallet confirmation](<../.gitbook/assets/image (36).png>)
 
 By clicking **Confirm**, you confirm you agree to pay the liquidity provider's fee for this transaction.
 
 After successful confirmation, the following window is shown:
 
-![swap submission confirmation](<.gitbook/assets/image (37).png>)
+![swap submission confirmation](<../.gitbook/assets/image (37).png>)
 
 You can click **View on...** to open the Explorer view of the transaction or just **Close** to close it.
