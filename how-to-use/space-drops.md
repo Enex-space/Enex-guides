@@ -12,7 +12,7 @@ Space Drops are available [here](https://dev.enex.space/#!action=space-drops). A
 
 The following view opens:
 
-![space drop overview](../.gitbook/assets/space-drop-overview.png)
+![space drop overview](../.gitbook/assets/space-drops-overview.png)
 
 The Space Drops view contains the following information for each pool:
 
