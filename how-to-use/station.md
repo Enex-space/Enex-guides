@@ -38,7 +38,7 @@ The Space Station view contains the following information:
 
 If you have no stakes in the Space Station yet, the Space Station view looks as follows:
 
-![space station overview](../.gitbook/assets/space-station-no-stakes-yet.png)
+![space station overview](../.gitbook/assets/space-station-no-stake-yet.png)
 
 To stake ENX, click **Stake ENX**. The following window appears:
 
