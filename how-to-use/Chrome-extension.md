@@ -84,7 +84,7 @@ Once you're logged in, the extension shows the contents of the wallet:
 
 ![](../.gitbook/assets/ext-wallet-main-view.png)
 
-Window once logged in (screenshots)
+Window once logged in
 
 _Elements_
 
@@ -94,13 +94,9 @@ _Elements_
 
 ### Assets
 
-This section lists the tokens held in the wallet as follows (screenshot):
+This section lists the tokens held in the wallet as follows:
 
 > token logo token ticker - short name (check with API?) token balance of the wallet token balance value in USD
-
-### Activity
-
-Activity log (add screenshot)
 
 ### Sending Tokens
 
@@ -118,8 +114,7 @@ To send another token, select it first by clicking on it in **Assets**, then pro
 * generate seed phrase
 * connect ledger --> A ledger is the Enecuum hardware wallet solution. This functionality is being developed now.
 * working with private keys
-*
-  * adding a new private key
+* adding a new private key
 
 ### Networks
 
@@ -127,7 +122,6 @@ Enecuum extension supports working with multiple networks. When you install Enec
 
 * add network
 * switch network
-*
 
 click Select on the network's bar in the extension; the window will be redrawn, showing the new network in the header.
 
