@@ -46,7 +46,7 @@ Type in the amount of LP Tokens you would like to farm or just click **MAX** to 
 
 After a while, the window closes, and you will see your new staked LP Token balance in the Details section.
 
-![ENX balance and LP\_TKN balance](<../.gitbook/assets/image (2).png>)
+![ENX balance and LP\_TKN balance](<../.gitbook/assets/image (2) (1).png>)
 
 ### Adding or removing LP Tokens from a Farm
 

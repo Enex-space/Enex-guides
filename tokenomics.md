@@ -68,9 +68,13 @@ According to ENX’s token model, **$ENX** total supply will be 21M with one-tim
 
 **Here is an unlocking schedule for each month over 63 months.**
 
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ## **Inflation Rate by Month**
 
 **Here is an inflation vs new supply diagram over 63 months.**
+
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## **Allocation Table**
 
