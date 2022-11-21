@@ -4,7 +4,7 @@ description: Space Drop is a place where projects can be introduced to the commu
 
 # 🌍 Space Drops
 
-**Space Drops** are similar to [**Space Station**](station-not-ready.md). They allow you to earn rewards as you stake ENX tokens. The difference is that with **Space Drops**, the reward is accumulated and eventually converted not from liquidity pool tokens issued to stakeholders, but from the other token of a given pair pair.
+**Space Drops** are similar to [**Space Station**](station-not-ready.md). They allow you to earn rewards as you stake tokens. The difference is that with **Space Drops**, the reward is accumulated and eventually converted not from liquidity pool tokens issued to stakeholders, but from the other token of a given pair pair.
 
 ## Getting Started with Space Drops
 
@@ -22,7 +22,7 @@ The Space Drops view contains the following information for each pool:
 * **APY** - annual percentage yield (the real rate of return on the investment in a Space Drop)
 * **Total Staked** - total amount of tokens staked in the Space Drop.
 * **Reward per Block** - the reward earned by a stakeholder of a Space Drop.
-* **Details** - click here to see the amount of ENX you have earned in Rewards from this Space Drop and your stake in the Space Drop.
+* **Details** - click here to see the amount of tokens you have earned in Rewards from this Space Drop and your stake in the Space Drop.
 
 ## Working with Space Drops
 
@@ -30,15 +30,15 @@ The Space Drops view contains the following information for each pool:
 
 (is it possible to do so at all?)
 
-### Staking ENX
+### Staking&#x20;
 
-If you have no stakes in the SpaceSpace Drop yet, click **Details** for that Space Drop and click **Stake ENX**. The following window appears:
+If you have no stakes in the SpaceSpace Drop yet, click **Details** for that Space Drop and click **Stake**. The following window appears:
 
 ![space drop staking](../.gitbook/assets/space-drops-staking.png)
 
-Enter the amount of ENX tokens you want to stake and click **Confirm**. Your Enecuum wallet will request confirmation for the writing off of a transaction fee. Once the transaction is complete, Space Station view will be updated, reflecting your current stake.
+Enter the amount of tokens you want to stake and click **Confirm**. Your Enecuum wallet will request confirmation for the writing off of a transaction fee. Once the transaction is complete, Space Station view will be updated, reflecting your current stake.
 
-If you wish to stake more ENX tokens or remove some or all of them from Space Station, use **+** or **-** buttons to the right of your current stake as shown in the Space Drop's **Details** view. The steps are the same as described above for the initial staking of ENX tokens.
+If you wish to stake more tokens or remove some or all of them from Space Station, use **+** or **-** buttons to the right of your current stake as shown in the Space Drop's **Details** view. The steps are the same as described above for the initial staking of tokens.
 
 ### Harvesting Rewards
 
