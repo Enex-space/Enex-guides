@@ -4,7 +4,7 @@
 
 **Harvest Farms** is a yield farming mechanism. Analogous to a traditional bank deposit, it allows a user to receive rewards for providing liquidity to **ENEX.SPACE** DEX via [Pools](pool.md) for a given period of time. The rationale behind Harvest Farms is to have users keep their liquidity in pools, thus enabling trading on the DeFi platform.
 
-A user can stake in a farm for a preset duration (determined in blocks) the liquidity provider tokens received after staking tokens in a Pool. Rewards are paid out in **$ENX** tokens.
+A user can stake in a farm for a preset duration (determined in blocks) the liquidity provider tokens received after staking tokens in a Pool. Rewards are paid out in tokens set by Farm creator.
 
 ![harvest farms in navigation](<../.gitbook/assets/image (35).png>)
 
@@ -12,7 +12,7 @@ A user can stake in a farm for a preset duration (determined in blocks) the liqu
 
 | Object           | Description                                                                                                                       |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| Stake-Earn       | Staked liquidity provider token (LP\_TKN) and reward token (ENX)                                                                  |
+| Stake-Earn       | Staked liquidity provider token (LP\_TKN) and reward token                                                                        |
 | Status           | Amount of blocks remaining until the farm's expiration                                                                            |
 | Earned           | Amount of tokens earned                                                                                                           |
 | APY              | Annual percentage yield, i.e. the compounded return per year in percentage points                                                 |
@@ -28,7 +28,7 @@ There is a function called "**status**" in the window. Active paused and finishe
 
 ### Setting Up a Farm
 
-(\*\*to be added? parameters in addition to the farm's time to live in blocks and the award fund (in ENX) to be distributed? \*\*)
+(\*\*to be added? parameters in addition to the farm's time to live in blocks and the award fund to be distributed? \*\*)
 
 ### Providing Liquidity to get LP Tokens
 
@@ -66,8 +66,8 @@ After the confirmation, your new balance will show up in the Details section of 
 
 ### Collecting your farming rewards
 
-Farming will bring you ENX rewards over time. You can collect these rewards and use them to get more LP Tokens, stake them in Pools, or for anything else.
+Farming will bring you rewards over time. You can collect these rewards and use them to get more LP Tokens, stake them in Pools, or for anything else.
 
-Click **Harvest** and confirm the action in your wallet. The ENX reward tokens will be transferred to your wallet for you to use as you like.
+Click **Harvest** and confirm the action in your wallet. The reward tokens will be transferred to your wallet for you to use as you like.
 
 ![harvest](<../.gitbook/assets/image (31).png>)
