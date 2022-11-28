@@ -43,17 +43,17 @@ Here you can edit the _slippage tolerance_. This means that, if the price change
 
 ### Slippage
 
-**Slippage** is a common occurrence in markets with high volatility or low liquidity. Slippage occurs when a trade settles for a different price than expected or requested. \
+**Slippage** is a common occurrence in markets with high volatility or low liquidity. Slippage occurs when a trade settles for a different price than expected or requested.\
 \
-In other words, for small orders of high-demand assets, slippage can be relatively insignificant or even unnoticeable on the chart. However, a large order of an asset with less liquidity brings with it a higher probability of slippage. Slippage, therefore, holds an inverse correlation to liquidity: higher market liquidity reduces slippage, while low liquidity in the market will increase the percentage of slippage.   &#x20;
+In other words, for small orders of high-demand assets, slippage can be relatively insignificant or even unnoticeable on the chart. However, a large order of an asset with less liquidity brings with it a higher probability of slippage. Slippage, therefore, holds an inverse correlation to liquidity: higher market liquidity reduces slippage, while low liquidity in the market will increase the percentage of slippage.
 
 #### Positive Slippage‍
 
-Slippage doesn’t necessarily mean that you’ll end up with a worse price than expected. **Positive slippage** can occur if the price decreases while you make your buy order or increases if you make a sell order. Although uncommon, positive slippage may occur in some highly volatile markets.&#x20;
+Slippage doesn’t necessarily mean that you’ll end up with a worse price than expected. **Positive slippage** can occur if the price decreases while you make your buy order or increases if you make a sell order. Although uncommon, positive slippage may occur in some highly volatile markets.
 
 #### Slippage Tolerance‍
 
-Enex allows you to manually set a **slippage tolerance level** to limit any slippage you might experience. And we also allow you to change this level!&#x20;
+Enex allows you to manually set a **slippage tolerance level** to limit any slippage you might experience. And we also allow you to change this level!
 
 ![slippage tolerance‍](<../.gitbook/assets/image (43).png>)
 
@@ -80,7 +80,7 @@ This section lets you select the source token (**From**) and the target token (*
 * **Balance** shows the current amount of source tokens in your wallet.
 * **Token Selector** allows you to select your source token to be swapped. When you click on it, the following menu appears:
 
-![token selector](<../.gitbook/assets/image (21).png>)
+![token selector](<../.gitbook/assets/image (21) (1).png>)
 
 You can look up for the source token as you type in its name.
 
@@ -104,7 +104,7 @@ This section shows the price of the target token measured in source tokens.
 
 In addition, it shows the routing information, collapsed by default. To view it, click **Router**.
 
-![routing](<../.gitbook/assets/image (8).png>)
+![routing](<../.gitbook/assets/image (8) (1).png>)
 
 0.3% - it is a swap fee for each pair.
 
@@ -145,6 +145,6 @@ By clicking **Confirm**, you confirm you agree to pay the liquidity provider's f
 
 After successful confirmation, the following window is shown:
 
-![swap submission confirmation](<../.gitbook/assets/image (37).png>)
+![swap submission confirmation](<../.gitbook/assets/image (37) (1).png>)
 
 You can click **View on...** to open the Explorer view of the transaction or just **Close** to close it.

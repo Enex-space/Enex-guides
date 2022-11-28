@@ -4,7 +4,7 @@ description: Space Drop is a place where projects can be introduced to the commu
 
 # 🌍 Space Drops
 
-**Space Drops** are similar to [**Space Station**](station-not-ready.md). They allow you to earn rewards as you stake tokens. The difference is that with **Space Drops**, the reward is accumulated and eventually converted not from liquidity pool tokens issued to stakeholders, but from the other token of a given pair pair.
+**Space Drops** are similar to [**Space Station**](../station-not-ready.md). They allow you to earn rewards as you stake tokens. The difference is that with **Space Drops**, the reward is accumulated and eventually converted not from liquidity pool tokens issued to stakeholders, but from the other token of a given pair pair.
 
 ## Getting Started with Space Drops
 
@@ -12,7 +12,7 @@ Space Drops are available [here](https://dev.enex.space/#!action=space-drops). A
 
 The following view opens:
 
-![space drop overview](../.gitbook/assets/space-drops-overview.png)
+![space drop overview](../../.gitbook/assets/space-drops-overview.png)
 
 The Space Drops view contains the following information for each pool:
 
@@ -34,7 +34,7 @@ The Space Drops view contains the following information for each pool:
 
 If you have no stakes in the SpaceSpace Drop yet, click **Details** for that Space Drop and click **Stake**. The following window appears:
 
-![space drop staking](../.gitbook/assets/space-drops-staking.png)
+![space drop staking](../../.gitbook/assets/space-drops-staking.png)
 
 Enter the amount of tokens you want to stake and click **Confirm**. Your Enecuum wallet will request confirmation for the writing off of a transaction fee. Once the transaction is complete, Space Station view will be updated, reflecting your current stake.
 

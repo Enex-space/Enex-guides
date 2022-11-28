@@ -10,8 +10,10 @@
 * [🔝 Top Pairs](how-to-use/top-pairs.md)
 * [🎰 ETM](how-to-use/etm/README.md)
   * [↔ Fee principals](how-to-use/etm/fee-principals.md)
-* [🧑🌾 Harvest Farms](how-to-use/harvest-farms.md)
-* [🌍 Space Drops](how-to-use/space-drops.md)
+* [🧑🌾 Harvest Farms](how-to-use/harvest-farms/README.md)
+  * [⚙ Harvest Farm creation](how-to-use/harvest-farms/harvest-farm-creation.md)
+* [🌍 Space Drops](how-to-use/space-drops/README.md)
+  * [⚙ Space Drop creation](how-to-use/space-drops/space-drop-creation.md)
 * [🛰 Station](how-to-use/station.md)
 * [💠 Browser Extension](how-to-use/Chrome-extension.md)
 

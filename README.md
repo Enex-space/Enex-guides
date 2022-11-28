@@ -28,12 +28,12 @@ ENEX.SPACE is a DeFi platform built on the Enecuum blockchain. ENEX.SPACE functi
 [etm](how-to-use/etm/)
 {% endcontent-ref %}
 
-{% content-ref url="how-to-use/harvest-farms.md" %}
-[harvest-farms.md](how-to-use/harvest-farms.md)
+{% content-ref url="how-to-use/harvest-farms/" %}
+[harvest-farms](how-to-use/harvest-farms/)
 {% endcontent-ref %}
 
-{% content-ref url="how-to-use/space-drops.md" %}
-[space-drops.md](how-to-use/space-drops.md)
+{% content-ref url="how-to-use/space-drops/" %}
+[space-drops](how-to-use/space-drops/)
 {% endcontent-ref %}
 
 {% content-ref url="how-to-use/station.md" %}
@@ -46,7 +46,7 @@ Commander is entity which has full access to treasury. **Treasury** is filled up
 
 On picture above, there are three liquidity pools. Trading fees are gathered in treasury in form of LPs:
 
-![](<.gitbook/assets/image (18).png>)
+![](<.gitbook/assets/image (18) (2).png>)
 
 * Whiskey/Cola with LPwc liquidity token,
 * Gin/Tonic with LPgt liquidity token,

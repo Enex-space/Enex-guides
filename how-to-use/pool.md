@@ -34,7 +34,7 @@ The number of LP tokens you own shows your share in the BIT-SOS liquidity pool. 
 
 Next, you will see the baby-window again, waiting for you to confirm the operation in your wallet.
 
-![waiting for confirmation](<../.gitbook/assets/image (34).png>)
+![waiting for confirmation](<../.gitbook/assets/image (34) (1).png>)
 
 Having confirmed everything necessary, you will be notified that the transaction was successful.
 
