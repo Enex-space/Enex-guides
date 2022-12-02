@@ -1,7 +1,7 @@
 # 🔄 Swap
 
 {% hint style="info" %}
-**Good to know:** you always can test all the features of ENEX.SPACE in the test network. Visit [app.enex.spac](https://app.enex.space/) and select BIT network in the extension. Read more about this in the section: ENEX in Test Network
+**Good to know:** you always can test all the features of ENEX.SPACE in the test network. Visit [app.enex.space](https://app.enex.space/) and select BIT network in the extension. Read more about this in the section: ENEX in Test Network
 {% endhint %}
 
 ENEX.SPACE provides a simple way to exchange digital assets by means of a swap operation.
