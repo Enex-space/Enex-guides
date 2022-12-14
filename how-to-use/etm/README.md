@@ -6,7 +6,7 @@ description: Enecuum Token Machine
 
 Via ETM, you can easily issue custom tokens to be deployed on the Enecuum blockchain.
 
-![ETM interface](<../../.gitbook/assets/image (39).png>)
+![ETM interface](<../../.gitbook/assets/image (39) (1).png>)
 
 ## Token Types and Parameters
 

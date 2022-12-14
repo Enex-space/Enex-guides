@@ -8,11 +8,11 @@ First - to create a farm you need to go to wallet.enecuum.com, log in to the web
 
 Next, select Create Farm.
 
-<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption><p>Create Farm</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (34) (2).png" alt=""><figcaption><p>Create Farm</p></figcaption></figure>
 
 You will see the farm creation interface:
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Farm creation interface</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (2).png" alt=""><figcaption><p>Farm creation interface</p></figcaption></figure>
 
 Where:
 
@@ -28,7 +28,7 @@ It is better to search for the right LP-Token by Id (hash):
 
 In the example, the farm will run for \~10,000,000 blocks or \~1,736 days:
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>The Example</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (2).png" alt=""><figcaption><p>The Example</p></figcaption></figure>
 
 Next, click "Create farm".
 
@@ -38,7 +38,7 @@ And confirm the operation via Extension.
 
 Once created - the farm is available under All drops farms:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Established farm</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption><p>Established farm</p></figcaption></figure>
 
 Farm parameters:
 

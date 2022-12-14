@@ -17,7 +17,7 @@ When you add liquidity to a pool, you get Liquidity Provider tokens (LPTs) of th
 
 First, you go to the site and select the swap tab or visit it via [link](https://app.enex.space/#!action=swap).
 
-![swap](<../.gitbook/assets/image (25).png>)
+![swap](<../.gitbook/assets/image (25) (1).png>)
 
 Next, you will see the tools for using it.
 
@@ -55,7 +55,7 @@ Slippage doesn’t necessarily mean that you’ll end up with a worse price than
 
 Enex allows you to manually set a **slippage tolerance level** to limit any slippage you might experience. And we also allow you to change this level!
 
-![slippage tolerance‍](<../.gitbook/assets/image (43).png>)
+![slippage tolerance‍](<../.gitbook/assets/image (43) (1).png>)
 
 ### Transaction History
 
@@ -72,7 +72,7 @@ Here you can view the history of your transactions. You can refine your view usi
 
 This section lets you select the source token (**From**) and the target token (**To**) you want to swap.
 
-![token pair settings](<../.gitbook/assets/image (15).png>)
+![token pair settings](<../.gitbook/assets/image (15) (1).png>)
 
 **From** has the following fields:
 
@@ -86,7 +86,7 @@ You can look up for the source token as you type in its name.
 
 You can also have your preferred tokens appear first on the menu. To do this, click (cogwheel icon). The following menu appears:
 
-![token selector grouping](<../.gitbook/assets/image (40).png>)
+![token selector grouping](<../.gitbook/assets/image (40) (1).png>)
 
 The dropdown lists all tokens in an A to Z order. Click the arrow to change the sorting order to Z to A.
 
@@ -104,7 +104,7 @@ This section shows the price of the target token measured in source tokens.
 
 In addition, it shows the routing information, collapsed by default. To view it, click **Router**.
 
-![routing](<../.gitbook/assets/image (8) (1).png>)
+![routing](<../.gitbook/assets/image (8) (1) (1).png>)
 
 0.3% - it is a swap fee for each pair.
 

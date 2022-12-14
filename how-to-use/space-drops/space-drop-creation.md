@@ -12,7 +12,7 @@ Next, select Create Farm.
 
 You will see the farm creation interface:
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption><p>Farm creation interface</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (2).png" alt=""><figcaption><p>Farm creation interface</p></figcaption></figure>
 
 Where:
 
@@ -24,7 +24,7 @@ Where:
 
 It is better to search for the right Token by Id (hash):
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Choose token you want</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (3).png" alt=""><figcaption><p>Choose token you want</p></figcaption></figure>
 
 In the example, the Drop will run for \~10,000,000 blocks or \~1,736 days:
 
@@ -38,11 +38,11 @@ And confirm the operation via Extension.
 
 Once created - the Drop is available under All drops farms:
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Drop BIT-TSTSX</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Drop BIT-TSTSX</p></figcaption></figure>
 
 Drop parameters:
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Drop parameters</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>Drop parameters</p></figcaption></figure>
 
 Right now, your Space Drop can only be used via the enecuum web-wallet interface. To add it to the ENEX.SPACE interface, please [fill out the form](https://forms.gle/Hf8M1ZpQfb4MgAQ36):
 

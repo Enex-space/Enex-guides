@@ -8,7 +8,7 @@ A user can stake in a farm for a preset duration (determined in blocks) the liqu
 
 ![harvest farms in navigation](<../../.gitbook/assets/image (35).png>)
 
-![harvest farms interface](<../../.gitbook/assets/image (24).png>)
+![harvest farms interface](<../../.gitbook/assets/image (24) (1).png>)
 
 | Object           | Description                                                                                                                       |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -58,7 +58,7 @@ To do this, use **-** and **+** buttons below your tokens. Click **-** to remove
 
 The window that opens looks like the one used to stake LP tokens into the Farm for the first time. Type in the LP token amount you want to add to or remove from the farm or click **MAX** to add or remove all available LP Tokens.
 
-![removing window](<../../.gitbook/assets/image (13).png>)
+![removing window](<../../.gitbook/assets/image (13) (1).png>)
 
 Check that your information is correct. When you are ready, click **Confirm** button and confirm the action in your wallet.
 
@@ -70,4 +70,4 @@ Farming will bring you rewards over time. You can collect these rewards and use 
 
 Click **Harvest** and confirm the action in your wallet. The reward tokens will be transferred to your wallet for you to use as you like.
 
-![harvest](<../../.gitbook/assets/image (31).png>)
+![harvest](<../../.gitbook/assets/image (31) (1).png>)

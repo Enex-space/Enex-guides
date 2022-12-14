@@ -9,6 +9,7 @@
 * [🌊 Pool](how-to-use/pool.md)
 * [🔝 Top Pairs](how-to-use/top-pairs.md)
 * [🎰 ETM](how-to-use/etm/README.md)
+  * [💻 Add a description to custom token](how-to-use/etm/add-a-description-to-custom-token.md)
   * [↔ Fee principals](how-to-use/etm/fee-principals.md)
 * [🧑🌾 Harvest Farms](how-to-use/harvest-farms/README.md)
   * [⚙ Harvest Farm creation](how-to-use/harvest-farms/harvest-farm-creation.md)

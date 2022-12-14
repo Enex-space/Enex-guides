@@ -2,7 +2,7 @@
 
 **Top Pairs** lists all token exchange pairs on the **ENEX.SPACE** DeFi platform, arranged by the total amount of liquidity (amounts of both tokens combined) in a decreasing order (that is, #1 pair has the most combined liquidity):
 
-![top pairs interface](<../.gitbook/assets/image (30).png>)
+![top pairs interface](<../.gitbook/assets/image (30) (1).png>)
 
 Let's look at the Top 10 Pairs and review their names one by one:
 

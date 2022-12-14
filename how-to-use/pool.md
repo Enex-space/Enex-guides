@@ -18,7 +18,7 @@ When adding liquidity to an existing pool, you have add a certain amount of both
 
 ($$\frac{10}{100000000} = \frac{1}{10}$$).
 
-![pool location](<../.gitbook/assets/image (1) (1).png>)
+![pool location](<../.gitbook/assets/image (1) (1) (1).png>)
 
 When you have added your tokens to the pool, you will receive **LP (liquidity pool) tokens**.
 
@@ -40,7 +40,7 @@ Having confirmed everything necessary, you will be notified that the transaction
 
 Moreover, you will have a possibility to view the information about the transaction.
 
-![transaction was submitted](<../.gitbook/assets/image (14).png>)
+![transaction was submitted](<../.gitbook/assets/image (14) (1).png>)
 
 ## Creating a New Pool and Adding Liquidity To It
 
