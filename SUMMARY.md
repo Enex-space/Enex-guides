@@ -16,6 +16,7 @@
 * [🌍 Space Drops](how-to-use/space-drops/README.md)
   * [⚙ Space Drop creation](how-to-use/space-drops/space-drop-creation.md)
 * [🛰 Station](how-to-use/station.md)
+* [✅ Governance](how-to-use/governance.md)
 * [💠 Browser Extension](how-to-use/Chrome-extension.md)
 
 ## 📑 Inside the ENEX
