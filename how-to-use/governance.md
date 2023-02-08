@@ -2,7 +2,7 @@
 
 ### How to vote
 
-1. Go to [https://enex.space/#!action=governance](https://enex.space/#!action=governance)
+1. Go to [https://app.enex.space/#!action=governance](https://app.enex.space/#!action=governance)
 
 <figure><img src="https://lh5.googleusercontent.com/ot_MeSm9MMS-mheLtjrl-UkvMbedz5yOJ-KZMNkWVqR3-IbFeoRCo3TZA6y1_vmk8Ox-LHievgcqhQ5IaFr8RE3w581pQwvJldomX8YjWJ_47YD8_hqCSYiLPw5NR4JvBJIfWeUP7By16YsOuQ6UIEU" alt=""><figcaption></figcaption></figure>
 
